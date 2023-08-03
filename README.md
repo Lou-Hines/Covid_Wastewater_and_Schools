@@ -36,18 +36,16 @@ Presentation: [Link to the presentation summarizing the results]
 
 Contact: lou.m.hines@gmail.com
 
-## About 
+LinkedIn: https://www.linkedin.com/in/lou-hines-data-scientist/
 
-Predicting SARS-CoV-2 gene copies in wastewater and understanding the role K-12 viral spread using machine learning.
 
-## Resources 
+## Additional Resources 
 
-Data source: [Link to the data source]
+Primary Data source: https://data.cityofnewyork.us/Health/SARS-CoV-2-concentrations-measured-in-NYC-Wastewat/f7dc-2q9f/data
 
-Notebooks: [Link to the notebooks]
+Wastewater Sampling Methods: https://pubs.rsc.org/en/content/articlelanding/2022/EW/D1EW00747E#cit18
 
-Presentation: [Link to the presentation]
+New York State SARS-CoV-2 Dashboard: https://mbcolli.shinyapps.io/SARS2EWSP/
 
-Contact: Your email for contact
 
 
