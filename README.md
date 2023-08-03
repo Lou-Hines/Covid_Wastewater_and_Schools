@@ -1,8 +1,8 @@
 # Covid Wastewater and Schools
 
 # SARS-CoV-2 Gene Copies in Wastewater & K-12 Spread Prediction
-##Project Overview
-###The aim of this study is to predict the amount of SARS-CoV-2 (the virus that causes COVID-19) gene copies in wastewater and understand the impact of its spread in K-12 schools. Using machine learning models and wastewater data, we hope to provide valuable insights into the spread of the virus in the community. This could help public health officials make informed decisions about school closures and re-openings.
+Project Overview
+The aim of this study is to predict the amount of SARS-CoV-2 (the virus that causes COVID-19) gene copies in wastewater and understand the impact of its spread in K-12 schools. Using machine learning models and wastewater data, we hope to provide valuable insights into the spread of the virus in the community. This could help public health officials make informed decisions about school closures and re-openings.
 
 Data Overview
 The data used for this study includes data from conducted jointly by the New York City Department of Environmental Protection and the New York City Department of Health between 2020 and Spring, 20203.  This allows us to track the spread of the virus over time and across different geographical areas. To this data we added holiday and seasonal information, as well as data about K-12 schools, including the number of estimated number of students for each wastewater facility and school events during the first two years of the pandemic.
