@@ -30,7 +30,7 @@ In the future, we plan to expand our analysis by including more variables and us
 
 Data: https://github.com/Lou-Hines/Covid_Wastewater_and_Schools/tree/main/Regression_Modelling/data
 
-Notebooks 1: https://github.com/Lou-Hines/Covid_Wastewater_and_Schools/tree/main/Regression_Modelling 
+Notebooks 1: https://github.com/Lou-Hines/Covid_Wastewater_and_Schools/tree/main/Regression_Modelling <br.
 Notebooks 2: https://github.com/Lou-Hines/Covid_Wastewater_and_Schools/tree/main/Bayesian_Modelling
 
 Presentation: https://github.com/Lou-Hines/Covid_Wastewater_and_Schools/blob/main/Wastewater_and_Schools_Presentation.pdf
