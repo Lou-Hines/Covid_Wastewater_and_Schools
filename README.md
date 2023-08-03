@@ -28,20 +28,22 @@ In the future, we plan to expand our analysis by including more variables and us
 
 ## Repository Navigation 
 
-Data: [Data](./Regression_Modelling/data)
+[Data](./Regression_Modelling/data)
 
-Notebooks 1: [Notebooks 1](./Regression_Modelling)
+[Notebooks 1](./Regression_Modelling)
 
-Notebooks 2: [Notebooks 2](./Bayesian_Modelling)
+[Notebooks 2](./Bayesian_Modelling)
 
-Presentation: [Presentation](./Wastewater_and_Schools_Presentation.pdf)
+[Presentation](./Wastewater_and_Schools_Presentation.pdf)
 
-Contact: [lou.m.hines@gmail.com](mailto:lou.m.hines@gmail.com)
+[lou.m.hines@gmail.com](mailto:lou.m.hines@gmail.com)
 
-LinkedIn: [LinkedIn](https://www.linkedin.com/in/lou-hines-data-scientist/)
+[LinkedIn](https://www.linkedin.com/in/lou-hines-data-scientist/)
 
 ## Additional Resources:
 
-Primary Data source: [Primary Data Source](https://data.cityofnewyork.us/Health/SARS-CoV-2-concentrations-measured-in-NYC-Wastewat/f7dc-2q9f/data)
-Wastewater Sampling Methods: [Wastewater Sampling Methods](https://pubs.rsc.org/en/content/articlelanding/2022/EW/D1EW00747E#cit18)
-New York State SARS-CoV-2 Dashboard: [New York State SARS-CoV-2 Dashboard](https://mbcolli.shinyapps.io/SARS2EWSP/)
+[Primary Data Source](https://data.cityofnewyork.us/Health/SARS-CoV-2-concentrations-measured-in-NYC-Wastewat/f7dc-2q9f/data)
+
+[Wastewater Sampling Methods](https://pubs.rsc.org/en/content/articlelanding/2022/EW/D1EW00747E#cit18)
+
+[New York State SARS-CoV-2 Dashboard](https://mbcolli.shinyapps.io/SARS2EWSP/)
