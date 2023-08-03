@@ -28,9 +28,9 @@ In the future, we plan to expand our analysis by including more variables and us
 
 ## Repository Navigation 
 
-Data: [Link to the data used in this project]
+Data: [https://github.com/Lou-Hines/Covid_Wastewater_and_Schools/tree/main/Regression_Modelling/data]
 
-Notebooks: [Link to the Jupyter notebooks containing the analysis]
+Notebooks: [https://github.com/Lou-Hines/Covid_Wastewater_and_Schools/tree/main/Regression_Modelling] [https://github.com/Lou-Hines/Covid_Wastewater_and_Schools/tree/main/Bayesian_Modelling]
 
 Presentation: [Link to the presentation summarizing the results]
 
