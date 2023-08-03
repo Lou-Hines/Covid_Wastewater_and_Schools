@@ -24,7 +24,7 @@ Our study suggests that monitoring SARS-CoV-2 in wastewater and understanding it
 
 ## Next Steps 
 
-In the future, we plan to expand our analysis by including more variables and using more complex models. We also plan to apply our methods to other types of data, such as labor statistics (remote vs. in-person), population flux during 2020-2021, public transportation and restaurant usage, to get a more complete picture of the virus spread, especially after the Omicron wave.
+In the future, we plan to expand our analysis by including more variables and using more complex models. We also plan to apply our methods to other types of data, such as labor statistics (remote vs. in-person), population flux during 2020-2021, public transportation and restaurant usage, etc. to get a more complete picture of the virus spread, especially after the Omicron wave.
 
 ## Repository Navigation 
 
