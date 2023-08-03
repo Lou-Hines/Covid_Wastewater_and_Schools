@@ -33,7 +33,7 @@ Data: https://github.com/Lou-Hines/Covid_Wastewater_and_Schools/tree/main/Regres
 Notebooks 1: https://github.com/Lou-Hines/Covid_Wastewater_and_Schools/tree/main/Regression_Modelling 
 Notebooks 2: https://github.com/Lou-Hines/Covid_Wastewater_and_Schools/tree/main/Bayesian_Modelling
 
-Presentation: [Link to the presentation summarizing the results]
+Presentation: https://github.com/Lou-Hines/Covid_Wastewater_and_Schools/blob/main/Wastewater_and_Schools_Presentation.pdf
 
 Contact: lou.m.hines@gmail.com
 
