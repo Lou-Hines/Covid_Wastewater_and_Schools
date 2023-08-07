@@ -1,4 +1,3 @@
-# Covid Wastewater and Schools
 
 # SARS-CoV-2 Gene Copies in Wastewater & K-12 Spread Prediction
 
