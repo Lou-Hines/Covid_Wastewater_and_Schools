@@ -1,4 +1,3 @@
-# Covid Wastewater and Schools
 
 # SARS-CoV-2 Gene Copies in Wastewater & K-12 Spread Prediction
 
@@ -28,25 +27,22 @@ In the future, we plan to expand our analysis by including more variables and us
 
 ## Repository Navigation 
 
-Data: https://github.com/Lou-Hines/Covid_Wastewater_and_Schools/tree/main/Regression_Modelling/data
+[Data](./Regression_Modelling/data)
 
-Notebooks 1: https://github.com/Lou-Hines/Covid_Wastewater_and_Schools/tree/main/Regression_Modelling 
-Notebooks 2: https://github.com/Lou-Hines/Covid_Wastewater_and_Schools/tree/main/Bayesian_Modelling
+[Notebooks 1](./Regression_Modelling)
 
-Presentation: [Link to the presentation summarizing the results]
+[Notebooks 2](./Bayesian_Modelling)
 
-Contact: lou.m.hines@gmail.com
+[Presentation](./Wastewater_and_Schools_Presentation.pdf)
 
-LinkedIn: https://www.linkedin.com/in/lou-hines-data-scientist/
+[lou.m.hines@gmail.com](mailto:lou.m.hines@gmail.com)
 
+[LinkedIn](https://www.linkedin.com/in/lou-hines-data-scientist/)
 
-## Additional Resources 
+## Additional Resources:
 
-Primary Data source: https://data.cityofnewyork.us/Health/SARS-CoV-2-concentrations-measured-in-NYC-Wastewat/f7dc-2q9f/data
+[Primary Data Source](https://data.cityofnewyork.us/Health/SARS-CoV-2-concentrations-measured-in-NYC-Wastewat/f7dc-2q9f/data)
 
-Wastewater Sampling Methods: https://pubs.rsc.org/en/content/articlelanding/2022/EW/D1EW00747E#cit18
+[Wastewater Sampling Methods](https://pubs.rsc.org/en/content/articlelanding/2022/EW/D1EW00747E#cit18)
 
-New York State SARS-CoV-2 Dashboard: https://mbcolli.shinyapps.io/SARS2EWSP/
-
-
-
+[New York State SARS-CoV-2 Dashboard](https://mbcolli.shinyapps.io/SARS2EWSP/)
