@@ -7,7 +7,7 @@ The aim of this study is to predict the amount of SARS-CoV-2 (the virus that cau
 
 ## Data Overview 
 
-The data used for this study includes data from conducted jointly by the New York City Department of Environmental Protection and the New York City Department of Health between 2020 and Spring, 20203. This allows us to track the spread of the virus over time and across different geographical areas. To this data we added holiday and seasonal information, as well as data about K-12 schools, including the number of estimated number of students for each wastewater facility and school events during the first two years of the pandemic.
+The data used for this study includes data from conducted jointly by the New York City Department of Environmental Protection and the New York City Department of Health between 2020 and Spring, 2023. This allows us to track the spread of the virus over time and across different geographical areas. To this data we added holiday and seasonal information, as well as data about K-12 schools, including the number of estimated number of students for each wastewater facility and school events during the first two years of the pandemic.
 
 ## Methods 
 
