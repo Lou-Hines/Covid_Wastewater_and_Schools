@@ -3,7 +3,7 @@
 
 ## Project Overview 
 
-The aim of this study is to predict the amount of SARS-CoV-2 (the virus that causes COVID-19) gene copies in wastewater and understand the impact of its spread in K-12 schools. Using machine learning models and wastewater data, we hope to provide valuable insights into the spread of the virus in the community. This could help public health officials make informed decisions about school closures and re-openings.
+The aim of this project was to predict the amount of SARS-CoV-2 (the virus that causes COVID-19) gene copies in wastewater and understand the impact of its spread in K-12 schools. Using machine learning models and wastewater data, we provided valuable insights into the spread of the virus in the community. This could help public health officials make informed decisions about school closures and re-openings.
 
 ## Data Overview 
 
@@ -11,11 +11,11 @@ The data used for this project was produced jointly by the New York City Departm
 
 ## Methods 
 
-We used machine learning models to make our predictions, including models like decision trees and gradient boosting. We carefully validated our models using techniques such as cross-validation and grid search to ensure their accuracy and robustness. Finally, we used Bayesian modelling to ensure confidence in our predictions.
+We used machine learning models to make our predictions, including decision trees and gradient boosting. We carefully validated our models using techniques such as cross-validation and grid search to ensure their accuracy and robustness. Finally, we used Bayesian modelling to ensure confidence in our predictions.
 
 ## Project Results 
 
-The results of our analysis showed that the amount of SARS-CoV-2 gene copies in wastewater is a useful indicator of the virus spread in the community. Most importantly, our models were able to make accurate predictions and estimate the contributions of schools to the overall SARS-CoV-2 wastewater levels.
+The results of our analysis showed that the amount of SARS-CoV-2 gene copies in wastewater is a useful indicator of the virus spread in the community. Most importantly, our models were able to make accurate predictions and estimate the contributions of K-12 schools to the overall SARS-CoV-2 wastewater levels.
 
 ## Conclusion 
 
